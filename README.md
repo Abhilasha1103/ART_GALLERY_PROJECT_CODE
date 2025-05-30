@@ -1,36 +1,38 @@
-# ART GALLERY PROJECT CODE
+# 🎨 Art Gallery SQL Project
 
-#### Data analysis of ART GALLERY with the ARTIST & their ARTWORK 
+####Data analysis of ART GALLERY with the ARTIST & their ARTWORK 
 
-## Project Overview :
+## 📖 Overview
 
-#### The Art Gallery Database is a structured MySQL project designed to manage and analyze information related to artists, museums, artworks, and their subjects. This database provides a comprehensive system for storing, retrieving, and querying art-related data efficiently. It enables users to explore various aspects of the art world, such as artist details, museum locations, artwork styles, and thematic subjects.
+####A MySQL-based project to manage and analyze data related to artists, artworks, and museums.
 
-## Project Objectives :
+####The Art Gallery Database is a structured MySQL project designed to manage and analyze information related to artists, museums, artworks, and their subjects. This database provides a comprehensive system for storing, retrieving, and querying art-related data efficiently. It enables users to explore various aspects of the art world, such as artist details, museum locations, artwork styles, and thematic subjects.
 
-#### Develop a structured relational database to store and manage art-related information efficiently.
+## 📂 Project Objectives :
 
-#### Facilitate quick retrieval of data using optimized SQL queries.
+####➤Develop a structured relational database to store and manage art-related information efficiently.
 
-#### Establish relationships between artists, museums, and artworks to provide meaningful insights.
+####➤Facilitate quick retrieval of data using optimized SQL queries.
 
-#### Enable complex queries and analysis to explore trends in art styles and museum collections.
+####➤Establish relationships between artists, museums, and artworks to provide meaningful insights.
 
-#### Implement many-to-many relationships to accurately reflect real-world associations between artists, museums, and subjects.
+####➤Enable complex queries and analysis to explore trends in art styles and museum collections.
 
-#### Ensure data integrity and consistency using primary keys, foreign keys, and constraints.
+####➤Implement many-to-many relationships to accurately reflect real-world associations between artists, museums, and subjects.
 
-#### Provide a scalable database schema that can be extended for future enhancements like web integration or analytics.
+####➤Ensure data integrity and consistency using primary keys, foreign keys, and constraints.
 
-## Tools & Library Used :
+####➤Provide a scalable database schema that can be extended for future enhancements like web integration or analytics.
+
+## 🧰 Tools & Library Used :
 
 ![image](https://github.com/user-attachments/assets/dc671d71-6054-412f-b5a0-2c8500ad5c48)
 
-## Project Result : 
+## 📊 Project Result : 
 
 [[Click here to get full code](https://github.com/Abhilasha1103/ART_GALLERY_PROJECT_CODE/blob/main/ART%20MUSEUM%20SQL%20PROJECT.sql)]
 
-## Query Task :
+## 🔍 Query Task :
 
 1. "Can you provide list all artworks along with their artists and styles ?"
 
