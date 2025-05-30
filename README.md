@@ -81,7 +81,7 @@
 
 10. "How do we determine all artworks painted by a specific artist (e.g., "Pablo Picasso")?"
 
-
+![Screenshot 2025-03-12 181224](https://github.com/user-attachments/assets/853fb10e-326d-44c9-a53f-b2c426a9259b)
 
 11. "How can we retrieve museums that have more than 5 artworks?"
 
@@ -96,10 +96,6 @@
 13. "What number we'll get if we retrieve all artworks created by French artists?"
 
 ![Q-13](https://github.com/user-attachments/assets/3749b3b1-f24e-4dd9-acac-8f7a86ba044a)
-
-
-14. "What answer we'll get if we retrieve all museums that have at least one Impressionist artwork?"
-
 
 
 15. "How can we retrieve all artworks and their museums, even if they don’t have a museum assigned?"
