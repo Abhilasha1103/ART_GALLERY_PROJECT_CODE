@@ -1,4 +1,4 @@
-# ART_GALLERY_PROJECT_CODE
+# ART GALLERY PROJECT CODE
 
 #### Data analysis of ART GALLERY with the ARTIST & their ARTWORK 
 
